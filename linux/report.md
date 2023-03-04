@@ -11,7 +11,7 @@
 
 - создаю нового пользователя
 
-![Untitled](screenshots/Untitled 1.png)
+![Untitled](screenshots/Untitled%201.png)
 
 - добавляю его в группу, которая называется adm
 
